@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.underline {
+  height: 3px;
+  width: auto;
+  background-color: #282c34;
+  border-radius: 4px;
+}
+.padding {
+  padding: 45px;
+}
+
+.row{
+  padding: 70px;
+  
+}
+
+.bcg{
+  background-color: darkgray;
+  padding: 25px;
+  margin: 20px;
+}
+.pad {
+  padding: 30px;
+}
+
